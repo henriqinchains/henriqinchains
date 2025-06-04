@@ -1,3 +1,1 @@
-- Mestre da Computaria
 - ADS - IFSP
-- semréh
